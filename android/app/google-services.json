@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112721912125",
+    "project_id": "todoey-1f952",
+    "storage_bucket": "todoey-1f952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112721912125:android:7ead23f55ee4674c3ae554",
+        "android_client_info": {
+          "package_name": "com.wentao.todoey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112721912125-1ejhn77vd53bigu0vkm1m6r1lnc5hbg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvf0hcapHX9i6d9CXR-L05dJZwG_d8mec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112721912125-1ejhn77vd53bigu0vkm1m6r1lnc5hbg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
